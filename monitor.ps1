@@ -18,3 +18,4 @@ echo "CSMon_Result= w32time error not installed"
 echo "<-End Result->"
 exit 1
 }
+echo "Test output"
